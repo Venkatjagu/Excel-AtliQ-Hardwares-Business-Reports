@@ -1,4 +1,4 @@
-# Sales & Finance Reports
+# AtliQ Hardwares: Sales & Finance Reports
 
 ## Overview
 This repository contains sales and finance reports for **Atliq Hardwares**, providing insights into customer performance, market performance, and financial statements. The reports are structured to support data-driven decision-making and business growth strategies.
