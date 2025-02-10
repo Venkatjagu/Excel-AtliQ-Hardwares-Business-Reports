@@ -55,5 +55,5 @@ This repository contains sales and finance reports for **Atliq Hardwares**, prov
 2. **Analyze** sales and financial performance trends.
 3. **Leverage** insights to optimize business strategies and decision-making.
 
-This repository showcases reports built using **Power BI and Excel** to derive meaningful insights from business data. 🚀
+
 
